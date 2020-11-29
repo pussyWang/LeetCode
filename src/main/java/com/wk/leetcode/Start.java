@@ -1,5 +1,5 @@
 /**
- * Baidu.com Inc.
+ * wk.com Inc.
  * Copyright (c) 2020 All Rights Reserved.
  */
 package com.wk.leetcode;

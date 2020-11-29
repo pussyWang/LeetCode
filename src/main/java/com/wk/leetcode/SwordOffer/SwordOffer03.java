@@ -1,5 +1,5 @@
 /**
- * Baidu.com Inc.
+ * wk.com Inc.
  * Copyright (c) 2020 All Rights Reserved.
  */
 package com.wk.leetcode.SwordOffer;
@@ -19,6 +19,11 @@ package com.wk.leetcode.SwordOffer;
  * @date 2020-11-29 15:11
  */
 public class SwordOffer03 {
+    /**
+     * wrong method
+     * @param nums
+     * @return
+     */
     public static int findRepeatNumber(int[] nums) {
         if (nums == null) return 0;
         int r = nums[0];
