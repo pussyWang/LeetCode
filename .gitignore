@@ -18,6 +18,7 @@ output
 *.iws
 *.iml
 *.ipr
+.idea/*.xml
 .DS_Store
 
 ### NetBeans ###
