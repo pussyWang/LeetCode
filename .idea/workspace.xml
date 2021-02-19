@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848181fe-b393-4674-81a7-1199f0849940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/SuanFa/removeNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/Double2Int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/StringContact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/StringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/jishi1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/StringContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/StringContact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/StringMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/StringMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,27 +36,36 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectId" id="1ohZUrH0an2g4DA6HgUJu4rOKvk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613614369289" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wk/leetcode/cache" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.side.proportion" value="0.1816092" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.wk.leetcode.huawei" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/wk/leetcode/cache" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringMatch">
+  <component name="RunManager" selected="Application.jishi1">
     <configuration name="CXYJD0103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.ChengxuyuanJindian.CXYJD0103" />
       <module name="leetcode" />
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwordOffer12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.SwordOffer.SwordOffer12" />
-      <module name="leetcode" />
+    <configuration name="jishi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.jishi1" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wk.leetcode.SwordOffer.*" />
+          <option name="PATTERN" value="com.wk.leetcode.huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jishi1" />
         <item itemvalue="Application.StringMatch" />
         <item itemvalue="Application.StringContact" />
         <item itemvalue="Application.Double2Int" />
         <item itemvalue="Application.CXYJD0103" />
-        <item itemvalue="Application.SwordOffer12" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +164,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="381" y="70" key="#StringContact" timestamp="1613740856145">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="381" y="70" key="#StringContact/0.0.1440.900@0.0.1440.900" timestamp="1613740856145" />
+    <state width="1398" height="233" key="GridCell.Tab.0.bottom" timestamp="1613741200985">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613741200985" />
+    <state width="1398" height="233" key="GridCell.Tab.0.center" timestamp="1613741200984">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="233" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613741200984" />
+    <state width="1398" height="233" key="GridCell.Tab.0.left" timestamp="1613741200984">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="233" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613741200984" />
+    <state width="1398" height="233" key="GridCell.Tab.0.right" timestamp="1613741200985">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="233" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613741200985" />
     <state x="0" y="79" key="MergeDialog" timestamp="1613695423947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -167,6 +192,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="162" y="324" width="668" height="252" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1613695423999" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1613741307181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1613741307181" />
     <state x="385" y="196" key="search.everywhere.popup" timestamp="1613695535565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -225,82 +254,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.7 interpreter library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.google.guava:guava:21.0</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
