@@ -158,6 +158,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="79" key="MergeDialog" timestamp="1613695423947">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1613695423946" />
+    <state x="162" y="324" width="668" height="252" key="MultipleFileMergeDialog" timestamp="1613695423999">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="162" y="324" width="668" height="252" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1613695423999" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1613695535565">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1613695535565" />
+  </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="Application">
