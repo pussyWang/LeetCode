@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848181fe-b393-4674-81a7-1199f0849940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/jishi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/NumberGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +32,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="77" />
-    <option name="y" value="-1080" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
   <component name="ProjectId" id="1ohZUrH0an2g4DA6HgUJu4rOKvk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,13 +41,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613614369289" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wk/leetcode/cache" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1816092" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -65,23 +62,22 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.jishi1">
-    <configuration name="CXYJD0103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.ChengxuyuanJindian.CXYJD0103" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wk.leetcode.ChengxuyuanJindian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Double2Int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.Double2Int" />
-      <module name="leetcode" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NumberGame">
+    <configuration name="NumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.NumberGame" />
+      <module name="com.wk.leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wk.leetcode.huawei.*" />
@@ -94,7 +90,7 @@
     </configuration>
     <configuration name="StringContact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.StringContact" />
-      <module name="leetcode" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wk.leetcode.huawei.*" />
@@ -120,7 +116,7 @@
     </configuration>
     <configuration name="jishi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.jishi1" />
-      <module name="LeetCode" />
+      <module name="com.wk.leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wk.leetcode.huawei.*" />
@@ -131,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="suanfa42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.SuanFa.suanfa42" />
+      <module name="com.wk.leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wk.leetcode.SuanFa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberGame" />
         <item itemvalue="Application.jishi1" />
-        <item itemvalue="Application.StringMatch" />
+        <item itemvalue="Application.suanfa42" />
         <item itemvalue="Application.StringContact" />
-        <item itemvalue="Application.Double2Int" />
-        <item itemvalue="Application.CXYJD0103" />
+        <item itemvalue="Application.StringMatch" />
       </list>
     </recent_temporary>
   </component>
@@ -154,36 +163,61 @@
       <workItem from="1606630339863" duration="4819000" />
       <workItem from="1608862083077" duration="2801000" />
       <workItem from="1613017782839" duration="18406000" />
+      <workItem from="1613911506135" duration="461000" />
+      <workItem from="1614394668970" duration="503000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26026000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/LeetCode" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="381" y="70" key="#StringContact" timestamp="1613740856145">
+    <state x="381" y="70" key="#StringContact" timestamp="1613911791310">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="381" y="70" key="#StringContact/0.0.1440.900@0.0.1440.900" timestamp="1613740856145" />
-    <state width="1398" height="233" key="GridCell.Tab.0.bottom" timestamp="1613741200985">
+    <state x="381" y="70" key="#StringContact/0.0.1440.900@0.0.1440.900" timestamp="1613911791310" />
+    <state x="508" y="162" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1613882001247">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="233" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613741200985" />
-    <state width="1398" height="233" key="GridCell.Tab.0.center" timestamp="1613741200984">
+    <state x="508" y="162" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900@0.0.1440.900" timestamp="1613882001247" />
+    <state x="579" y="182" key="EnvironmentVariablesDialog" timestamp="1613881989408">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="233" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613741200984" />
-    <state width="1398" height="233" key="GridCell.Tab.0.left" timestamp="1613741200984">
+    <state x="579" y="182" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1613881989408" />
+    <state width="1398" height="185" key="GridCell.Tab.0.bottom" timestamp="1613882079376">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="233" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613741200984" />
-    <state width="1398" height="233" key="GridCell.Tab.0.right" timestamp="1613741200985">
+    <state width="1398" height="185" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613882079376" />
+    <state width="1398" height="185" key="GridCell.Tab.0.center" timestamp="1613882079375">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="233" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613741200985" />
+    <state width="1398" height="185" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613882079375" />
+    <state width="1398" height="185" key="GridCell.Tab.0.left" timestamp="1613882079374">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="185" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613882079374" />
+    <state width="1398" height="185" key="GridCell.Tab.0.right" timestamp="1613882079376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="185" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613882079376" />
     <state x="0" y="79" key="MergeDialog" timestamp="1613695423947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -192,10 +226,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="162" y="324" width="668" height="252" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1613695423999" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1613741307181">
+    <state x="208" y="31" key="SettingsEditor" timestamp="1613881947598">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1613741307181" />
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1613881947598" />
     <state x="385" y="196" key="search.everywhere.popup" timestamp="1613695535565">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="leetcode" />
         <module name="LeetCode" />
+        <module name="com.wk.leetcode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
