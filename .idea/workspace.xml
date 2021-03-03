@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848181fe-b393-4674-81a7-1199f0849940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/java8/Java8DefaultMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/java8/Java8Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/MaxProfit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/NumberGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/jishi1.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java8DefaultMethod">
+  <component name="RunManager" selected="Application.NumberGame">
     <configuration name="Java8DefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.java8.Java8DefaultMethod" />
       <module name="com.wk.leetcode" />
@@ -132,9 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java8DefaultMethod" />
         <item itemvalue="Application.NumberGame" />
         <item itemvalue="Application.jishi1" />
+        <item itemvalue="Application.Java8DefaultMethod" />
         <item itemvalue="Application.suanfa42" />
         <item itemvalue="Application.StringContact" />
       </list>
@@ -154,7 +155,7 @@
       <workItem from="1608862083077" duration="2801000" />
       <workItem from="1613017782839" duration="18406000" />
       <workItem from="1613911506135" duration="461000" />
-      <workItem from="1614394668970" duration="1847000" />
+      <workItem from="1614394668970" duration="5215000" />
     </task>
     <servers />
   </component>

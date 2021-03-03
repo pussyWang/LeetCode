@@ -2,6 +2,7 @@ package com.wk.leetcode.huawei;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 /**
  * 华为机试
@@ -10,15 +11,23 @@ import java.util.List;
  */
 public class NumberGame {
     public static void main(String[] args) {
-        List<Integer> r = move(3);
-        StringBuffer sb = new StringBuffer();
-        for (int i=0; i<r.size();i++) {
-            sb.append(r.get(i));
-            if (i+1 != r.size()) {
-                sb.append(",");
+        Scanner input = new Scanner(System.in);
+        while (input.hasNext()) {
+            int num = input.nextInt();
+            if (num <=0 || num >= 100) {
+                System.out.println("params error!");
+                break;
             }
+            List<Integer> r = move(num);
+            StringBuffer sb = new StringBuffer();
+            for (int i=0; i<r.size();i++) {
+                sb.append(r.get(i));
+                if (i+1 != r.size()) {
+                    sb.append(",");
+                }
+            }
+            System.out.println(sb.toString());
         }
-        System.out.println(sb.toString());
         System.exit(0);
     }
 
