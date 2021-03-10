@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848181fe-b393-4674-81a7-1199f0849940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/MainDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/NumberGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wk/leetcode/huawei/jishi1.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberGame">
+  <component name="RunManager" selected="Application.MainDemo">
     <configuration name="Java8DefaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.java8.Java8DefaultMethod" />
       <module name="com.wk.leetcode" />
@@ -79,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.NumberGame" />
+    <configuration name="MainDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.MainDemo" />
       <module name="com.wk.leetcode" />
       <extension name="coverage">
         <pattern>
@@ -92,9 +90,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringContact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.StringContact" />
-      <module name="LeetCode" />
+    <configuration name="NumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wk.leetcode.huawei.NumberGame" />
+      <module name="com.wk.leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wk.leetcode.huawei.*" />
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDemo" />
         <item itemvalue="Application.NumberGame" />
         <item itemvalue="Application.jishi1" />
         <item itemvalue="Application.Java8DefaultMethod" />
         <item itemvalue="Application.suanfa42" />
-        <item itemvalue="Application.StringContact" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +153,9 @@
       <workItem from="1608862083077" duration="2801000" />
       <workItem from="1613017782839" duration="18406000" />
       <workItem from="1613911506135" duration="461000" />
-      <workItem from="1614394668970" duration="5215000" />
+      <workItem from="1614394668970" duration="6235000" />
+      <workItem from="1614948432535" duration="3965000" />
+      <workItem from="1615386269833" duration="67000" />
     </task>
     <servers />
   </component>
